@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dimitris4000/concept02/pkg/controller"
-	"github.com/dimitris4000/concept02/pkg/service"
+	"github.com/dimitris4000/concept02/internal/controller"
+	"github.com/dimitris4000/concept02/internal/service"
 )
 
 var (

@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dimitris4000/concept02/pkg/controller"
+	"github.com/dimitris4000/concept02/internal/controller"
 )
 
 // SchedulerServiceConfig is holding all the configuration
